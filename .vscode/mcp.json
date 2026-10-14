@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "blender": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "${userHome}/blender_mcp/mcp",
+        "run",
+        "blender-mcp"
+      ]
+    }
+  }
+}

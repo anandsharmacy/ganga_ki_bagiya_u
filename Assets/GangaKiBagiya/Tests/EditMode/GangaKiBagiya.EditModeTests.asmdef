@@ -1,0 +1,21 @@
+{
+  "name": "GangaKiBagiya.EditModeTests",
+  "rootNamespace": "GangaKiBagiya.Tests",
+  "references": [
+    "GangaKiBagiya.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
